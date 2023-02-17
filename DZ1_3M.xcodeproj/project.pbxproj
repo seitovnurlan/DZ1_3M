@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2852E2C8299F57640029BF5C /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2852E2C7299F57640029BF5C /* NewViewController.swift */; };
 		289C9C56299BD4E500A27B00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 289C9C55299BD4E500A27B00 /* AppDelegate.swift */; };
 		289C9C58299BD4E500A27B00 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 289C9C57299BD4E500A27B00 /* SceneDelegate.swift */; };
 		289C9C5A299BD4E500A27B00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 289C9C59299BD4E500A27B00 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2852E2C7299F57640029BF5C /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		289C9C52299BD4E500A27B00 /* DZ1_3M.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DZ1_3M.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		289C9C55299BD4E500A27B00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		289C9C57299BD4E500A27B00 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				289C9C55299BD4E500A27B00 /* AppDelegate.swift */,
 				289C9C57299BD4E500A27B00 /* SceneDelegate.swift */,
 				289C9C59299BD4E500A27B00 /* ViewController.swift */,
+				2852E2C7299F57640029BF5C /* NewViewController.swift */,
 				289C9C5B299BD4E500A27B00 /* Main.storyboard */,
 				289C9C5E299BD4E600A27B00 /* Assets.xcassets */,
 				289C9C60299BD4E600A27B00 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				289C9C5A299BD4E500A27B00 /* ViewController.swift in Sources */,
 				289C9C56299BD4E500A27B00 /* AppDelegate.swift in Sources */,
 				289C9C58299BD4E500A27B00 /* SceneDelegate.swift in Sources */,
+				2852E2C8299F57640029BF5C /* NewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
