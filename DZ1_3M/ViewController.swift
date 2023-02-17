@@ -40,11 +40,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         
-        buttonView.layer.borderWidth = 1
+      //  buttonView.layer.borderWidth = 1
        // buttonView.layer.borderColor = UIColor.blue.cgColor
-        buttonView.layer.borderColor = UIColor.systemBlue.cgColor
-        buttonView.layer.cornerRadius = 5
-        buttonView.backgroundColor = .white
+       // buttonView.layer.borderColor = UIColor.systemBlue.cgColor
+     //   buttonView.layer.cornerRadius = 5
+      //  buttonView.backgroundColor = .white
        // buttonView.layer.borderColor = UIColor.blue.cgColor
         
     }

@@ -9,6 +9,10 @@ import UIKit
 
 class NewViewController: UIViewController {
 
+    @IBAction func goBackButton(_ sender: UIButton) {
+        dismiss(animated: true, completion: nil)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -25,9 +29,5 @@ class NewViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
-    
-    @IBAction func goBack(_ sender: Any) {
-        dismiss(animated: true)   }
     
 }
